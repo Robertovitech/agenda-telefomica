@@ -2,7 +2,7 @@
 
 > **|--------AGENDA TELEFOMICA--------|**
 
-Deberás clonar los archivos en la terminal de vscode.
+Deberás clonar los archivos que contiene la carpeta Telefomica en la terminal de vscode.
 
 √ DESCRIPCIÓN DEL PROYECTO:
 Consiste en guardar una lista de contactos dentro de la nueva agencia de Telefomica, ya ejecutado el archivo 'main' de la aplicación podrás ver en la terminal de vscode un menú con 5 opciones que puedes elejir.
